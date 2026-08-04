@@ -1,1 +1,1 @@
-Go to https://vxiyan.github.io/Papa-s-Games to play the games.
+Go to https://vxiyan.github.io/Games to play the games.
